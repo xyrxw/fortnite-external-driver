@@ -11,7 +11,7 @@
   - Kernel Injector Source
   - EFI Driver Source
 
-# Accepting some coding works/requests.
+# Accepting coding works/requests.
   - Loaders,injectors,drivers,cheats etc. mostly I can accept every request. (c++,c#,python,java,lua)
 
 # IF YOU ARE INTERESTED PLEASE CONTACT ME THROUGH TELEGRAM -> https://t.me/xyrxw
